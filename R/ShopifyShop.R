@@ -814,7 +814,7 @@ ShopifyShop <- R6Class("ShopifyShop",
         .costLimitUsed = 0,
         .costLimitTotal = 1000,
         .costLimitRestoreRate = 50,
-        .apiVersion = "2023-07",
+        .apiVersion = "2024-01",
         
         # private methods
         .params = .params,
